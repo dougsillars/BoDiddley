@@ -31,7 +31,7 @@ This book derives, in part, from my numerous conversations and interviews with B
 Ever the gentleman, Bo was not only generous with his personal time, but also extended to me access to his relatives, friends and associates, many of whom are mentioned or quoted in the composite family and performance scenes described in the text.  I am more than grateful to him for these gestures.
 
 
-[Ackknowledgements](/acknowledgements.md)
+[Acknowledgements](acknowlegements.md)
 
 ### CONTENTS
 
