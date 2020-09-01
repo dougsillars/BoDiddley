@@ -36,33 +36,33 @@ Ever the gentleman, Bo was not only generous with his personal time, but also ex
 ### CONTENTS
 
 
-1.     [BAD DAD](chapter1.md)					  1
+1. [BAD DAD](chapter1.md)					  1
 
-2.     THE GREAT GRANDPAPPY						 13
+2. THE GREAT GRANDPAPPY						 13
 
-3.     DOWN ON THE CORNER					 	 42
+3. DOWN ON THE CORNER					 	 42
 
-4.     CHECKING OUT CHESS					 	 76
+4. CHECKING OUT CHESS					 	 76
 
-5.     EVERYBODY'S BEAU						111
+5. EVERYBODY'S BEAU						111
 
-6.     LOVE IS STRANGE						155
+6. LOVE IS STRANGE						155
 
-7.     BO'S BELLE							189
+7. BO'S BELLE							189
 
-8.     JUG BUDDIES							220
+8. JUG BUDDIES							220
 
-9.     THE ROCK AND ROLL CRISIS					248
+9. THE ROCK AND ROLL CRISIS					248
 
-10.    THE OTELSBERG FILE						297
+10. THE OTELSBERG FILE						297
 
-11.    LOS LUNACY							326
+11. LOS LUNACY							326
 
-12.    THE BO-POP HIP-HOP ROCK ëN' ROLL BLUES		369
+12. THE BO-POP HIP-HOP ROCK ëN' ROLL BLUES		369
 
-13.    HUMDINGING DIDDLEY						408
+13. HUMDINGING DIDDLEY						408
 
-14.    A WHOLE NEW THING						436
+14. A WHOLE NEW THING						436
 
 
 
