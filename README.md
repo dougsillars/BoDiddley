@@ -36,7 +36,7 @@ Ever the gentleman, Bo was not only generous with his personal time, but also ex
 ### CONTENTS
 
 
-1.     BAD DAD								  1
+1.     [BAD DAD](chapter1.md)					  1
 
 2.     THE GREAT GRANDPAPPY						 13
 
