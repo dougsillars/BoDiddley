@@ -44,13 +44,13 @@ Ever the gentleman, Bo was not only generous with his personal time, but also ex
 
 4. [CHECKING OUT CHESS](chapter4.md)					 	 76
 
-5. [EVERYBODY'S BEAU]						111
+5. [EVERYBODY'S BEAU](chapter5.md)						111
 
-6. [LOVE IS STRANGE]						155
+6. [LOVE IS STRANGE](chapter6.md)							155
 
-7. BO'S BELLE							189
+7. [BO'S BELLE](chapter7.md)							189
 
-8. JUG BUDDIES							220
+8. [JUG BUDDIES](chapter8.md)								220
 
 9. THE ROCK AND ROLL CRISIS					248
 
