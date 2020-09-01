@@ -38,15 +38,15 @@ Ever the gentleman, Bo was not only generous with his personal time, but also ex
 
 1. [BAD DAD](chapter1.md)					  1
 
-2. THE GREAT GRANDPAPPY						 13
+2. [THE GREAT GRANDPAPPY](chapter2.md)					 13
 
-3. DOWN ON THE CORNER					 	 42
+3. [DOWN ON THE CORNER](chapter3.md)					 	 42
 
-4. CHECKING OUT CHESS					 	 76
+4. [CHECKING OUT CHESS](chapter4.md)					 	 76
 
-5. EVERYBODY'S BEAU						111
+5. [EVERYBODY'S BEAU]						111
 
-6. LOVE IS STRANGE						155
+6. [LOVE IS STRANGE]						155
 
 7. BO'S BELLE							189
 
