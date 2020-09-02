@@ -52,17 +52,17 @@ Ever the gentleman, Bo was not only generous with his personal time, but also ex
 
 8. [JUG BUDDIES](chapter8.md)								220
 
-9. THE ROCK AND ROLL CRISIS					248
+9. [THE ROCK AND ROLL CRISIS](chapter9.md)				248
 
-10. THE OTELSBERG FILE						297
+10. [THE OTELSBERG FILE](chapter10.md)						297
 
-11. LOS LUNACY							326
+11. [LOS LUNACY](chapter12.md)							326
 
-12. THE BO-POP HIP-HOP ROCK ëN' ROLL BLUES		369
+12. [THE BO-POP HIP-HOP ROCK ëN' ROLL BLUES](chapter12.md)		369
 
-13. HUMDINGING DIDDLEY						408
+13. [HUMDINGING DIDDLEY](chapter13.md)						408
 
-14. A WHOLE NEW THING						436
+14. [A WHOLE NEW THING](chapter14.md)						436
 
 
 
